@@ -1,0 +1,1 @@
+Este proyecto es un programa de contratos inteligentes desarrollado en Solana con el framework Anchor. Implementa un sistema de gestión de tareas (To-Do List) utilizando PDAs (Program Derived Addresses).
